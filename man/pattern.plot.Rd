@@ -20,4 +20,3 @@ Plot pattern of SNP group inclusion
 \author{
 Chris Wallace
 }
-

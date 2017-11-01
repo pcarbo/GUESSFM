@@ -116,6 +116,6 @@ and these groups should be combined.  You can inspect whether this
 might be helpful using `check.merge()` and use `groups.merge()` to do
 the merge.
 
-```{r }
-pattern.plot(as.snpmod(sp))
+```{r, eval=FAL}
+pattern.plot(as(sp,"snpmod"))
 ```
